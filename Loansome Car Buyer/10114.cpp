@@ -1,3 +1,7 @@
+/*
+*Author: Fabian Calsina
+*Date: -
+*/
 #include <bits/stdc++.h>
 #define MAX 101
 using namespace std;
